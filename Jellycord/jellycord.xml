@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Container version="2">
+  <Name>Jellycord</Name>
+  <Repository>dunsparth/jellycord</Repository>
+  <Registry>https://hub.docker.com/r/dunsparth/jellycord/</Registry>
+  <Network>bridge</Network>
+  <MyIP/>
+  <Shell>sh</Shell>
+  <Privileged>false</Privileged>
+  <Support>https://github.com/dunsparth/Jellycord</Support>
+  <Project>https://github.com/dunsparth/Jellycord</Project>
+  <Overview>A Discord bot that displays real-time information from your Emby or Jellyfin media server.</Overview>
+  <Category>MediaServer:Other</Category>
+  <WebUI/>
+  <TemplateURL/>
+  <Icon>https://imgs.search.brave.com/Z_YvhVn3pxVPYhW5sGcOJsJjJFpvqUQY231CB8MvoPE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9qZWxseWZp/bi1pY29uLTI1Nngy/NTUtdTBpeXBkcDYu/cG5n</Icon>
+  <ExtraParams/>
+  <PostArgs/>
+  <CPUset/>
+  <DateInstalled>1744318889</DateInstalled>
+  <DonateText/>
+  <DonateLink/>
+  <Requires/>
+</Container>
